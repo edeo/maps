@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "ADDRESS": "1 FLORIDA AVENUE NE", "ZIP_CODE": "20002", "FULL_SERVI": 0, "ADDRID": 76011, "NAME": "Exxon of Florida Avenue", "PHONE": "2026351659", "GIS_ID": "Gas_1", "X": 399271.99, "Y": 138041.65 }, "geometry": { "type": "Point", "coordinates": [ -77.008596642314885, 38.910329122924892 ] } },
+{ "type": "Feature", "properties": { "ADDRESS": "1 FLORIDA AVENUE NE", "ZIP_CODE": "20002", "FULL_SERVI": 0 }, "geometry": { "type": "Point", "coordinates": [ -77.008596642314885, 38.910329122924892 ] } },
 { "type": "Feature", "properties": { "ADDRESS": "1801 WEST VIRGINIA AVENUE NE", "ZIP_CODE": "20002", "FULL_SERVI": 0, "ADDRID": 55987, "NAME": "Lowest Price", "PHONE": "2025265258", "GIS_ID": "Gas_123", "X": 401290.12, "Y": 138065.33 }, "geometry": { "type": "Point", "coordinates": [ -76.985264082803738, 38.910646596724625 ] } }
 ]
 }
