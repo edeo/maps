@@ -4,7 +4,7 @@
                                                                                 
 "features": [
 
-{ "type": "Feature", "properties": { "ADDRESS": "1801 WEST VIRGINIA AVENUE NE", "ZIP_CODE": "20002", "FULL_SERVI": 0, "ADDRID": 55987, "NAME": "Lowest Price", "PHONE": "2025265258", "GIS_ID": "Gas_123", "X": 401290.12, "Y": 138065.33 }, "geometry": { "type": "Point", "coordinates": [ 4.59805561,-74.0758333
+{ "type": "Feature", "properties": { "ADDRESS": "1801 WEST VIRGINIA AVENUE NE", "ZIP_CODE": "20002", "FULL_SERVI": 0, "ADDRID": 55987, "NAME": "Lowest Price", "PHONE": "2025265258", "GIS_ID": "Gas_123", "X": 401290.12, "Y": 138065.33 }, "geometry": { "type": "Point", "coordinates": [ -74.0758333,4.59805561,
  ] } }
 ]
 }
